@@ -1,3 +1,3 @@
-print(1)
-print(7777)
-print(999)
+print(123)
+print(333)
+print(55)
